@@ -2,6 +2,8 @@
 
 Medstra is a Next.js application designed to revolutionize the medical assessment process through artificial intelligence. It provides a seamless and efficient platform for insurance underwriting, ensuring accuracy and compliance with healthcare standards. Built by team Astella 🚀
 
+https://github.com/user-attachments/assets/dd142977-2fa0-4954-aaba-afb49e273681
+
 ## Features 🌟
 
 - **AI-Powered Assessments** 🤖: Utilize advanced AI algorithms for accurate medical evaluations
